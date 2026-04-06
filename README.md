@@ -35,7 +35,7 @@ See [LICENSE](./LICENSE) for details.
 
 ## ✍️ Author
 
-Yury A. Fedko  
+Yury A. Fedzko  
 Architecture fixed: March 2026  
 Deposited version 3.0 (development of AMIS 2.0, deposited on March 27, 2026).
 
