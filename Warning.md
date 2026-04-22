@@ -6,4 +6,4 @@ The author acknowledges this flaw and is working on a more balanced and fair sys
 
 This version is published as an intermediate one. Not recommended for use as is, without additional mechanisms of support and return.
 
-© Yury Fedzko 
+© Yury A. Fedzko 
