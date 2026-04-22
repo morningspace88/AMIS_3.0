@@ -1,3 +1,4 @@
+ ⚠️ **IMPORTANT:** The current version of AMIS 3.0 has effective filtering mechanisms, but **does not offer a way back** for those who fail the verification. The author acknowledges this flaw and is working on a more balanced and fair system.
 # AMIS 3.0 — Digital Ecosystem for Restoring Human Connection
 
 **AMIS (Advanced Mind & Integrity System)** is an architecture of a protected digital space where deep, sincere communication and motivation for real-life (offline) meetings are the priority. The system is built on four principles: attention scarcity (time is the main currency), reputational accountability (entry through vouching), verifiable sincerity (AI analysis), and stimulation of physical presence (material anchors).
